@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OffsetShellcode", "OffsetShellcode\OffsetShellcode.pyproj", "{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GenerateOffset", "GenerateOffset\GenerateOffset.pyproj", "{17CA37F2-8947-4767-B121-72E45E1A1B07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OffsetTablesShellcode", "..\OffsetTablesShellcode\OffsetTablesShellcode\OffsetTablesShellcode.vcxproj", "{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Release|x64.ActiveCfg = Release|Any CPU
+		{F1E39068-1472-4ABB-ABE2-1D7AE1F58777}.Release|x86.ActiveCfg = Release|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Release|x64.ActiveCfg = Release|Any CPU
+		{17CA37F2-8947-4767-B121-72E45E1A1B07}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Debug|x64.ActiveCfg = Debug|x64
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Debug|x64.Build.0 = Debug|x64
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Debug|x86.Build.0 = Debug|Win32
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Release|x64.ActiveCfg = Release|x64
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Release|x64.Build.0 = Release|x64
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Release|x86.ActiveCfg = Release|Win32
+		{FD8B3B35-1ABA-4FB1-8871-FDC6212204A1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40853269-C6F7-406A-9B45-0E9ACCB9AB24}
+	EndGlobalSection
+EndGlobal
